@@ -1,0 +1,47 @@
+body {
+  color: black;
+  background-color: white;
+  font-family: Times New Roman;
+
+  background-image: url(../images/background.jpg);
+}
+
+#wrapper {
+  width: 70%;
+  min-width: 800px;
+  max-width: 1020px;
+  background-color:#C0C0C0 ;
+  margin: 0 auto;
+}
+
+header {
+  background-color: whitesmoke;
+  color: #000000;
+  text-align: center;
+}
+
+footer {
+  background-color: whitesmoke;
+  color: #000000;
+  text-align: center;
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+nav {
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+nav a {
+  text-decoration: none;
+  color:red;
+  display: block;
+}
+
+.bg1{background-color:lightyellow ;
+  color:green ;}     
+  
+.ft1{font-style:italic;}

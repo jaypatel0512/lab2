@@ -35,13 +35,26 @@ nav {
   font-size: 18px;
 }
 
-nav a {
-  text-decoration: none;
-  color:red;
-  display: block;
-}
 
 .bg1{background-color:lightyellow ;
   color:green ;}     
+
+  nav a {
+    text-decoration: none;
+    display: block;
+    padding-bottom: 25px;
+  }
+  main {
+    margin-left: 150px;
+  }
+  
+  .floatright {
+    float: right;
+    padding-right: 20px;
+  }
+  
+  #para1 {
+    color: purple;
+  }  
   
 .ft1{font-style:italic;}
